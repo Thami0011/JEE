@@ -6,3 +6,4 @@ Puis apres, nous avons utilise le Framework SPRING, afin de faciliter le travail
 </p>
 
 <h4>Structure du projet</h4>
+![image](https://github.com/Thami0011/JEE-ClassWork/assets/115365291/fd50cb1c-dfdc-4122-892f-c507258fee3a)
